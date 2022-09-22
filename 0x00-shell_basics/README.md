@@ -1,1 +1,1 @@
-current working directory
+shell basic
